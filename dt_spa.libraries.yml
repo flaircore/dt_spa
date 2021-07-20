@@ -1,0 +1,8 @@
+loader:
+  version: VERSION
+  css:
+    theme:
+      libs/loader.css: {}
+  js:
+    libs/loader.js: {}
+

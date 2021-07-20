@@ -1,0 +1,5 @@
+<?php
+
+function dt_spa_page_attachments(array &$page) {
+  $page['#attached']['library'][] = 'dt_spa/loader';
+}
